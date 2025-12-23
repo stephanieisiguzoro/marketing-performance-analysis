@@ -1,0 +1,12 @@
+marketing-performance-analysis/
+│
+├── data/
+│   └── sample_marketing_data.csv
+│
+├── analysis/
+│   └── marketing_analysis.sql
+│
+├── visuals/
+│   └── charts.png
+│
+└── README.md
