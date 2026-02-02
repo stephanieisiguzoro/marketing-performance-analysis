@@ -6,7 +6,7 @@ top-performing pages, and optimization opportunities.
 
 ## Tools Used
 - Excel / Google Sheets
-- SQL (optional)
+- SQL
 - Tableau / Looker Studio
 
 ## Dataset
@@ -20,12 +20,12 @@ CTR, conversions, and keyword rankings over 6 months.
 - Where are conversion drop-offs?
 
 ## Analysis Summary
-- Organic traffic increased by X% over 6 months
+- Organic traffic increased by 65% over 6 months
 - Blog content accounted for the majority of organic sessions
 - Several keywords show strong impressions but weak CTR
 
 ## Visuals
-(Screenshots of charts will go here)
+(Screenshots of charts can be provided upon request)
 
 ## Business Recommendations
 - Optimize meta titles for high-impression keywords
